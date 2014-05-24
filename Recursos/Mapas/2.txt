@@ -1,0 +1,44 @@
+# FormaYo para crear mapas para los juegos
+# los '#' son para los comenYarios
+# los s’mbolos significan:
+#
+# Q     Plataforma CARNE
+# W     Plataforma PIZZA
+# E     Plataforma QUESO
+# R     Plataforma MORADA
+# T     Plataforma AZUL
+# y     Plataforma AQUA
+# U     Plataforma verde
+# I     Plataforma AMARILLA
+# O     Plataforma ROSA
+# P     Plataforma MUERTE
+# L     Limon
+# C     Cuchillo
+# F     Frasco de mondadienTes
+# 1     Taco
+# 2     Pizza
+# (Space) Vacio
+#
+# Ejemplo:
+R                                                                                                R
+T                                                                                                T
+Y                                                                                                R
+U                                                                                                U
+I                       C                                                                        I
+O                                                                                                O
+I                QQQQQQQQQQQQQQQQQ                 C 2                                           I
+U                                                                                                U
+Y                                         QQQQQQQQQQQQQQQQQQQQ                                   Y
+T                                                                                                T
+R                       2                                                         M              R
+T                                                                                                T
+Y                EEEEEEEEEEEEEEE     C                                  WWWWWWWWWWWWWWWWWW       Y
+U                                                                                                U
+I                                                           EEEEEEEE                             I
+O                            WWWWWWWWWWWWWWWWWW                                       C          O
+R                                                                                                R
+T                                                                              WWWWEEEEEEEEEEEEEET
+Y                       WWWWWWWWWW                                                               T
+U       M                                                                                        U
+IO L                                                                                            YI
+RTYUIOIUYTRTYUIOIUYTRTYUIOIUYTRTRYUIOIUYTYUIRYUIOIUUIYTTYTYIYRTRTTYYUUIIOIIUUYYYTTTRYUUIUYUYTRYTUI

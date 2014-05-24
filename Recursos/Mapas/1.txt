@@ -1,0 +1,48 @@
+# FormaYo para crear mapas para los juegos
+# los '#' son para los comenYarios
+# los s’mbolos significan:
+#
+# Q     Plataforma CARNE
+# W     Plataforma PIZZA
+# E     Plataforma QUESO
+# R     Plataforma MORADA
+# T     Plataforma AZUL
+# y     Plataforma AQUA
+# U     Plataforma verde
+# I     Plataforma AMARILLA
+# O     Plataforma ROSA
+# P     Plataforma MUERTE
+# L     Limon
+# C     Cuchillo
+# F     Frasco de mondadienTes
+# 1     Taco
+# 2     Jefe2
+# 3     Jefe3
+# J     Jugo
+# S     Semilla
+# (Space) Vacio
+#
+# Ejemplo:
+R                                                                                                R
+T                                                                                                T
+Y                                                                                                R
+U                                                                                                U
+I                                                                                                I
+O                                                                                                O
+I                                                                                                I
+U                                                                                                U
+Y                                                                                                Y
+T                                                                                                T
+R                                                                                 C              R
+T                                1           QQQ   QQQQQQQQQQQ                                   T
+Y                                                                         QQQQQQQQQQQQQQQQQQQQQQ Y
+U                                    C                                                           U
+I                                                    1       QQQQQQQQ   C                        I
+O                            QQQQQQQQQQQQQQQQQ                                                   O
+R                                            U                                                   R
+T                                            R                  QQQQQQQQQQQQQQQQQQ               T
+Y            QQQQQQQQQQQ              M      T     M                                             Y
+U        M                                   Y                 C                                 U
+IU  L                                        I                                                  YI
+RTYUIOIUYTRTYUIOIUYTRTYUIOIUYTRTRYUIOIUYTYUIRYUIOIUUIYTTYTYIYRTRTTYYUUIIOIIUUYYYTTTRYUUIUYUYTRYTUI
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
