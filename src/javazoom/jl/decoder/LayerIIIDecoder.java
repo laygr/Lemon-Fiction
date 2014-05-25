@@ -10,7 +10,7 @@
  *           Cause : Indexnumber of 24 at SfBandIndex,
  *           which has only a length of 22. I have simply and dirty 
  *           fixed the index to <= 22, because I'm not really be able
- *           to fix the bug. The Indexnumber is taken from the MP3 
+ *           to fix the bug. The Indexnumber is taken from the com.laygr.MP3
  *           file and the origin Ma-Player with the same code works 
  *           well.      
  * 

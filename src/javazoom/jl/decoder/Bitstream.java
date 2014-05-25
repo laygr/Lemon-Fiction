@@ -160,7 +160,7 @@ public final class Bitstream implements BitstreamErrors {
 	 * Load ID3v2 frames.
 	 * 
 	 * @param in
-	 *            MP3 InputStream.
+	 *            com.laygr.MP3 InputStream.
 	 * @author JavaZOOM
 	 */
 	private void loadID3v2(InputStream in) {
@@ -192,7 +192,7 @@ public final class Bitstream implements BitstreamErrors {
 	 * Parse ID3v2 tag header to find out size of ID3v2 frames.
 	 * 
 	 * @param in
-	 *            MP3 InputStream
+	 *            com.laygr.MP3 InputStream
 	 * @return size of ID3v2 frames + header
 	 * @throws IOException
 	 * @author JavaZOOM
@@ -278,9 +278,9 @@ public final class Bitstream implements BitstreamErrors {
 	}
 
 	/**
-	 * Read next MP3 frame.
+	 * Read next com.laygr.MP3 frame.
 	 * 
-	 * @return MP3 frame header.
+	 * @return com.laygr.MP3 frame header.
 	 * @throws BitstreamException
 	 */
 	private Header readNextFrame() throws BitstreamException {
@@ -291,7 +291,7 @@ public final class Bitstream implements BitstreamErrors {
 	}
 
 	/**
-	 * Read next MP3 frame.
+	 * Read next com.laygr.MP3 frame.
 	 * 
 	 * @throws BitstreamException
 	 */
@@ -317,7 +317,7 @@ public final class Bitstream implements BitstreamErrors {
 	}
 
 	/**
-	 * Close MP3 frame.
+	 * Close com.laygr.MP3 frame.
 	 */
 	public void closeFrame() {
 		framesize = -1;

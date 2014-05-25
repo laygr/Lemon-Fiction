@@ -1,1 +1,4 @@
-.DS_Store
+**/.DS_Store
+LemonFiction.iml
+.idea/
+out/
